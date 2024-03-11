@@ -1,0 +1,20 @@
+.single-product-bg-container{
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.main-container {
+    font-family:'Roboto';
+    list-style-type: none;
+    width: 400px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 0px 2px 16px 0px #c7d7f0;
+    border-radius:12px;
+    text-align:center;
+    padding:20px;
+  }
